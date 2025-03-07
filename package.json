@@ -3,9 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/southliu/react-admin",
+  "homepage": "https://github.com/xiaojunnanya/monitor",
   "scripts": {
     "dev": "vite --host",
+    "start": "vite --host",
     "build": "tsc && vite build",
     "build:dev": "tsc && vite build --mode dev",
     "build:test": "tsc && vite build --mode test",
